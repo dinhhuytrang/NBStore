@@ -1,0 +1,9 @@
+frontend
+npm start
+rafce
+
+backend
+
+
+//frontend
+thêm số lượng sản phẩm đã mua cho product

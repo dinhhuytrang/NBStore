@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Hola Wear</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="lorem">
+        lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    </string>
+    <!--    <string name="no_account">Don&apos;t have an account?</string>-->
+
+    <string name="hey_text">Hey 👋</string>
+    <string name="find_your">Let’s find your</string>
+    <string name="exclusive_outfit">Exclusive Outfit</string>
+    <string name="search_hint">Search</string>
+    <string name="search_button">Search button</string>
+    <string name="avatar_description">User avatar</string>
+
+    <!--    login activity-->
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+
+    <!--SE1740NJ-->
+    <string name="amount">Amount</string>
+    <string name="custom_tip_percentage">Custom %</string>
+    <string name="fifteen_percent">15% \n</string>
+    <string name="eighteen_percent">18% \n</string>
+    <string name="tip">Tip</string>
+    <string name="total">Total</string>
+
+</resources>

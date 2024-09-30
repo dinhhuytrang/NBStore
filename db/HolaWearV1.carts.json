@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "668a9c5730c7e27f05d90843"
+  },
+  "userId": {
+    "$oid": "6682c99da65d223cd21c28a3"
+  },
+  "cartItems": [
+    {
+      "productTitle": "ÁO THUN THỂ THAO 3 SỌC",
+      "productId": {
+        "$oid": "66881f47c6050e36d9074e06"
+      },
+      "thumbnail": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/7786c125bdbd49a5ac25aee000ab24f5_9366/Ao_Thun_The_Thao_3_Soc_AEROREADY_Designed_2_Move_Mau_tim_HK6526_01_laydown.jpg",
+      "color": "#FF0000",
+      "size": "M",
+      "quantity": 2,
+      "price": 20000
+    },
+    {
+      "productTitle": "ÁO THUN THỂ THAO 3 SỌC",
+      "productId": {
+        "$oid": "66881f47c6050e36d9074e06"
+      },
+      "thumbnail": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/7786c125bdbd49a5ac25aee000ab24f5_9366/Ao_Thun_The_Thao_3_Soc_AEROREADY_Designed_2_Move_Mau_tim_HK6526_01_laydown.jpg",
+      "color": "#FF0000",
+      "size": "L",
+      "quantity": 1,
+      "price": 20000
+    },
+    {
+      "productTitle": "ÁO THUN THỂ THAO 3 SỌC",
+      "productId": {
+        "$oid": "66881f47c6050e36d9074e06"
+      },
+      "thumbnail": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/7786c125bdbd49a5ac25aee000ab24f5_9366/Ao_Thun_The_Thao_3_Soc_AEROREADY_Designed_2_Move_Mau_tim_HK6526_01_laydown.jpg",
+      "color": "#000000",
+      "size": "S",
+      "quantity": 4,
+      "price": 20000
+    },
+    {
+      "productTitle": "ÁO THUN RUN IT",
+      "productId": {
+        "$oid": "66881f47c6050e36d9074e00"
+      },
+      "thumbnail": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/e549908e521545c28aecafc5011a2747_9366/Ao_Thun_Run_It_Be_IJ6833_01_laydown.jpg",
+      "color": "#FF0000",
+      "size": "M",
+      "quantity": 2,
+      "price": 1000
+    },
+    {
+      "productTitle": "ÁO THUN RUN IT",
+      "productId": {
+        "$oid": "66881f47c6050e36d9074e00"
+      },
+      "thumbnail": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/e549908e521545c28aecafc5011a2747_9366/Ao_Thun_Run_It_Be_IJ6833_01_laydown.jpg",
+      "color": "#0000FF",
+      "size": "S",
+      "quantity": 2,
+      "price": 1000
+    }
+  ],
+  "totalPrice": 144000,
+  "createdAt": {
+    "$date": "2024-07-07T13:47:03.400Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-07T13:49:13.119Z"
+  },
+  "__v": 4
+}]

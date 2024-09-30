@@ -1,0 +1,266 @@
+[{
+  "_id": {
+    "$oid": "668aab69180c1c5d08623ed5"
+  },
+  "userId": {
+    "$oid": "6682c99da65d223cd21c28a3"
+  },
+  "orderItems": [
+    {
+      "productTitle": "ÁO THUN THỂ THAO 3 SỌC",
+      "productId": {
+        "$oid": "66881f47c6050e36d9074e06"
+      },
+      "color": "#FF0000",
+      "size": "M",
+      "quantity": 1,
+      "price": 20000
+    }
+  ],
+  "shippingAddress": {
+    "fullName": "Lê Việt Em Anh",
+    "phone": "0949602355",
+    "address": "Xã Thạch Hoà - Huyện Thạch Thất - Thành phố Hà Nội",
+    "specificAddress": "Số nhà 135 ... "
+  },
+  "totalPrice": 55000,
+  "orderStatus": "pending",
+  "isPayment": false,
+  "createdAt": {
+    "$date": "2024-07-07T14:51:21.132Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-07T14:51:21.132Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668aab9f180c1c5d08623f32"
+  },
+  "userId": {
+    "$oid": "6682c99da65d223cd21c28a3"
+  },
+  "orderItems": [
+    {
+      "productTitle": "ÁO THUN THỂ THAO 3 SỌC",
+      "productId": {
+        "$oid": "66881f47c6050e36d9074e06"
+      },
+      "color": "#FF0000",
+      "size": "M",
+      "quantity": 3,
+      "price": 20000
+    },
+    {
+      "productTitle": "ÁO THUN THỂ THAO 3 SỌC",
+      "productId": {
+        "$oid": "66881f47c6050e36d9074e06"
+      },
+      "color": "#FF0000",
+      "size": "L",
+      "quantity": 3,
+      "price": 20000
+    }
+  ],
+  "shippingAddress": {
+    "fullName": "Lê Việt Em Anh",
+    "phone": "0949602355",
+    "address": "Xã Thạch Hoà - Huyện Thạch Thất - Thành phố Hà Nội",
+    "specificAddress": "Số nhà 135 ... "
+  },
+  "totalPrice": 155000,
+  "orderStatus": "pending",
+  "isPayment": false,
+  "createdAt": {
+    "$date": "2024-07-07T14:52:15.934Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-07T14:52:15.934Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668aac49180c1c5d0862406b"
+  },
+  "userId": {
+    "$oid": "6682c99da65d223cd21c28a3"
+  },
+  "orderItems": [
+    {
+      "productTitle": "ÁO THUN THỂ THAO 3 SỌC",
+      "productId": {
+        "$oid": "66881f47c6050e36d9074e06"
+      },
+      "color": "#000000",
+      "size": "S",
+      "quantity": 4,
+      "price": 20000
+    },
+    {
+      "productTitle": "ÁO THUN THỂ THAO 3 SỌC",
+      "productId": {
+        "$oid": "66881f47c6050e36d9074e06"
+      },
+      "color": "#FF0000",
+      "size": "L",
+      "quantity": 3,
+      "price": 20000
+    },
+    {
+      "productTitle": "ÁO THUN RUN IT",
+      "productId": {
+        "$oid": "66881f47c6050e36d9074e00"
+      },
+      "color": "#FF0000",
+      "size": "M",
+      "quantity": 4,
+      "price": 1000
+    }
+  ],
+  "shippingAddress": {
+    "fullName": "Lê Việt Em Anh Chung",
+    "phone": "0911111111",
+    "address": "Xã Mường Bon - Huyện Mai Sơn - Tỉnh Sơn La",
+    "specificAddress": "Số nhà 135 ... "
+  },
+  "totalPrice": 179000,
+  "orderStatus": "pending",
+  "isPayment": false,
+  "createdAt": {
+    "$date": "2024-07-07T14:55:05.599Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-07T14:55:05.599Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668aae50dc8008f126b133e8"
+  },
+  "userId": {
+    "$oid": "6682c99da65d223cd21c28a3"
+  },
+  "orderItems": [
+    {
+      "productTitle": "ÁO THUN THỂ THAO 3 SỌC",
+      "productId": {
+        "$oid": "66881f47c6050e36d9074e06"
+      },
+      "color": "#FF0000",
+      "size": "M",
+      "quantity": 4,
+      "price": 20000
+    },
+    {
+      "productTitle": "ÁO THUN THỂ THAO 3 SỌC",
+      "productId": {
+        "$oid": "66881f47c6050e36d9074e06"
+      },
+      "color": "#FF0000",
+      "size": "L",
+      "quantity": 9,
+      "price": 20000
+    },
+    {
+      "productTitle": "ÁO THUN RUN IT",
+      "productId": {
+        "$oid": "66881f47c6050e36d9074e00"
+      },
+      "color": "#0000FF",
+      "size": "S",
+      "quantity": 8,
+      "price": 1000
+    }
+  ],
+  "shippingAddress": {
+    "fullName": "Lê Việt Em Anh Chung",
+    "phone": "0911111111",
+    "address": "Xã Mường Bon - Huyện Mai Sơn - Tỉnh Sơn La",
+    "specificAddress": "Số nhà 135 ... "
+  },
+  "totalPrice": 303000,
+  "orderStatus": "pending",
+  "isPayment": false,
+  "createdAt": {
+    "$date": "2024-07-07T15:03:44.415Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-07T15:03:44.415Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668aae93dc8008f126b13447"
+  },
+  "userId": {
+    "$oid": "6682c99da65d223cd21c28a3"
+  },
+  "orderItems": [
+    {
+      "productTitle": "ÁO THUN RUN IT",
+      "productId": {
+        "$oid": "66881f47c6050e36d9074e00"
+      },
+      "color": "#0000FF",
+      "size": "S",
+      "quantity": 2,
+      "price": 1000
+    }
+  ],
+  "shippingAddress": {
+    "fullName": "Lê Việt Em Anh Chung",
+    "phone": "0911111111",
+    "address": "Xã Mường Bon - Huyện Mai Sơn - Tỉnh Sơn La",
+    "specificAddress": "Số nhà 135 ... "
+  },
+  "totalPrice": 37000,
+  "orderStatus": "pending",
+  "isPayment": false,
+  "createdAt": {
+    "$date": "2024-07-07T15:04:51.703Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-07T15:04:51.703Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668aaed0000a3568c4f7ad7f"
+  },
+  "userId": {
+    "$oid": "6682c99da65d223cd21c28a3"
+  },
+  "orderItems": [
+    {
+      "productTitle": "ÁO THUN RUN IT",
+      "productId": {
+        "$oid": "66881f47c6050e36d9074e00"
+      },
+      "color": "#0000FF",
+      "size": "S",
+      "quantity": 2,
+      "price": 1000
+    }
+  ],
+  "shippingAddress": {
+    "fullName": "Lê Việt Em Anh",
+    "phone": "0949602355",
+    "address": "Xã Thạch Hoà - Huyện Thạch Thất - Thành phố Hà Nội",
+    "specificAddress": "Số nhà 135 ... "
+  },
+  "totalPrice": 37000,
+  "orderStatus": "pending",
+  "isPayment": false,
+  "createdAt": {
+    "$date": "2024-07-07T15:05:52.298Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-07T15:05:52.298Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,147 @@
+[
+  {
+    "_id": {
+      "$oid": "667c4bc5c78717b6230bf71a"
+    },
+    "email": "te5@gmail.com",
+    "password": "$2b$10$dDgyRy/L8yi.0MGf/pxSOOQltm1iZV6Ak4y9cYIyt5q.RIhr.TxU6",
+    "name": "te5",
+    "refreshToken": null,
+    "shippingAddress": [],
+    "role": {
+      "$oid": "667a466306364e81a2e3eacb"
+    },
+    "__v": 17
+  },
+  {
+    "_id": {
+      "$oid": "667e1e7d983daa0e99ca103d"
+    },
+    "email": "te6@gmail.com",
+    "password": "$2b$10$M1bUuoqKzDD21qGgIlLeo.VF/Xwd4Yk/HzDMWt.mcok3THqvHDn0e",
+    "name": "te6",
+    "shippingAddress": [],
+    "role": {
+      "$oid": "667a466306364e81a2e3eacd"
+    },
+    "__v": 0,
+    "refreshToken": null
+  },
+  {
+    "_id": {
+      "$oid": "667e1fb04c13e7b59d00f5a0"
+    },
+    "email": "te7@gmail.com",
+    "password": "$2b$10$T6qIrmbBhevaHpsJJgkmvOExDPkhWWux13bxpp/l6xbYuKRVrTkAC",
+    "name": "te7",
+    "shippingAddress": [],
+    "role": {
+      "$oid": "667a466306364e81a2e3eacd"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "667e1fd24c13e7b59d00f5a4"
+    },
+    "email": "te8@gmail.com",
+    "password": "$2b$10$91FULYSqP4x0bh2Tjd2bgOv4GLcPjMkKWm91ijt0yAO6EIY611Gqm",
+    "name": "te8 upt",
+    "shippingAddress": [
+      {
+        "fullName": "Lê Việt Em Anh",
+        "phone": "0949602355",
+        "address": "Xã Thanh Long - Huyện Hà Quảng - Tỉnh Cao Bằng",
+        "specificAddress": "Số nhà 135 ... ",
+        "_id": {
+          "$oid": "66810cf64d5e61179df282a6"
+        }
+      },
+      {
+        "fullName": "viet nam",
+        "phone": "0911111111",
+        "address": "Xã Xà Phìn - Huyện Đồng Văn - Tỉnh Hà Giang",
+        "specificAddress": "Số nhà 135 ... ",
+        "_id": {
+          "$oid": "66810d334d5e61179df282ae"
+        }
+      }
+    ],
+    "role": {
+      "$oid": "667a466306364e81a2e3eacd"
+    },
+    "__v": 0,
+    "refreshToken": null,
+    "gender": "Male",
+    "phone": "0949602355"
+  },
+  {
+    "_id": {
+      "$oid": "6682c99da65d223cd21c28a3"
+    },
+    "email": "chungdt@gmail.com",
+    "password": "$2b$10$AgTQ2ZN/2TFUz2oQwXVMGu7DWhIBwsAS57SvNpUnKJzsM6PdrPDz2",
+    "name": "Đoàn Thành Chung",
+    "shippingAddress": [
+      {
+        "fullName": "Lê Việt Em Anh",
+        "phone": "0949602355",
+        "address": "Xã Thạch Hoà - Huyện Thạch Thất - Thành phố Hà Nội",
+        "specificAddress": "Số nhà 135 ... ",
+        "_id": {
+          "$oid": "6682cb89a65d223cd21c28b9"
+        }
+      },
+      {
+        "fullName": "Lê Việt Em Anh Chung",
+        "phone": "0911111111",
+        "address": "Xã Mường Bon - Huyện Mai Sơn - Tỉnh Sơn La",
+        "specificAddress": "Số nhà 135 ... ",
+        "_id": {
+          "$oid": "6686f15dece9014b78107b0e"
+        }
+      }
+    ],
+    "role": {
+      "$oid": "667a466306364e81a2e3eacd"
+    },
+    "__v": 0,
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2ODJjOTlkYTY1ZDIyM2NkMjFjMjhhMyIsInJvbGUiOnsiX2lkIjoiNjY3YTQ2NjMwNjM2NGU4MWEyZTNlYWNkIiwibmFtZSI6InVzZXIifSwiaWF0IjoxNzIwMzU3MjE4LCJleHAiOjE3MjA0NDM2MTh9.cSASnZq6tBWYTXXuroBaZC5QzGZEgvr1DN-x03WzVF8",
+    "phone": "0949602355",
+    "gender": "other",
+    "updatedAt": {
+      "$date": "2024-07-07T13:00:18.879Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6682d5f5a65d223cd21c28d9"
+    },
+    "email": "admin@gmail.com",
+    "password": "$2b$10$ED1xI4vqWYwO6Em67a3Rae7Z5rKmuSYzz3DwBzG8fF2EAyBiTNXNa",
+    "name": "admin",
+    "shippingAddress": [],
+    "role": {
+      "$oid": "667a466306364e81a2e3eacb"
+    },
+    "__v": 0,
+    "refreshToken": null,
+    "updatedAt": {
+      "$date": "2024-07-07T13:00:14.425Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6688249ac6050e36d9074f6e"
+    },
+    "email": "thienduc2552003@gmail.com",
+    "password": "$2b$10$EwU2tN.NF4cPcVfhq1bJb.kcQsz7QuwmlNwsUj2eXb.FQtofW0.4S",
+    "name": "Đỗ Đức Thiện",
+    "shippingAddress": [],
+    "role": {
+      "$oid": "667a466306364e81a2e3eacd"
+    },
+    "__v": 0,
+    "refreshToken": null
+  }
+]

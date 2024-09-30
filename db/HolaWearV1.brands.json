@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "6680361f6980cbef1d1b1f70"
+  },
+  "name": "Adidas",
+  "description": "",
+  "image": ""
+},
+{
+  "_id": {
+    "$oid": "6680361f6980cbef1d1b1f71"
+  },
+  "name": "Calvin Klein",
+  "description": "",
+  "image": ""
+},
+{
+  "_id": {
+    "$oid": "6680361f6980cbef1d1b1f72"
+  },
+  "name": "Gucci",
+  "description": "",
+  "image": ""
+},
+{
+  "_id": {
+    "$oid": "6680361f6980cbef1d1b1f73"
+  },
+  "name": "Lacoste",
+  "description": "",
+  "image": ""
+},
+{
+  "_id": {
+    "$oid": "6680361f6980cbef1d1b1f74"
+  },
+  "name": "Dior",
+  "description": "",
+  "image": ""
+},
+{
+  "_id": {
+    "$oid": "6680361f6980cbef1d1b1f75"
+  },
+  "name": "Chloé",
+  "description": "",
+  "image": ""
+},
+{
+  "_id": {
+    "$oid": "6680361f6980cbef1d1b1f76"
+  },
+  "name": "Balenciaga",
+  "description": "",
+  "image": ""
+}]
