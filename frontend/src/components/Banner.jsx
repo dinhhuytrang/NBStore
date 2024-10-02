@@ -24,10 +24,10 @@ const Banner = () => {
   };
 
   return (
-    <div className="flex flex-col md:flex-row items-center bg-gray-200 p-8 h-auto md:h-100 mx-10">
+    <div className="flex flex-col md:flex-row items-center bg-green-600 p-8 h-auto md:h-100 mx-10">
       <div className="md:w-1/2 p-4">
-        <h2 className="text-3xl font-bold mb-4">Shop With Confidence</h2>
-        <p className="text-lg mb-4">New products are added every week. Check back often to see.</p>
+        <h2 className="text-3xl font-bold mb-4">Shop With Comfort</h2>
+        <p className="text-lg mb-4">New products added weekly. Check back often.</p>
         <button onClick={handleShopNowClick} className="bg-black text-white py-2 px-4 rounded">
           Shop Now
         </button>

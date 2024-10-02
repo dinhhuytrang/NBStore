@@ -116,7 +116,7 @@
           <div className="flex-1 ml-4">
             <div className="flex justify-between items-center mb-4">
               <button onClick={toggleSidebar} className="bg-gray-200 p-2 rounded">
-                {showSidebar ? "Hide Filters" : "Show Filters"}
+                {showSidebar ? "Filters" : "Filters"}
               </button>
               <div className="relative">
                 <select value={sortOption} onChange={handleSortChange} className="bg-gray-200 p-2 rounded">
