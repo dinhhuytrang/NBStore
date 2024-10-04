@@ -15,11 +15,13 @@ import SearchView from '../routes/Search';
 import CartItemsProvider from '../Context/CartItemsProvider';
 import Login from '../components/Authentication/Login/Login';
 import Register from '../components/Authentication/Register/Register';
+import ChangePasswordScreen from '../components/Authentication/ChangePassword/ChangePassword';
 import Wishlist from '../components/Wishlist';
 import WishItemsProvider from '../Context/WishItemsProvider';
-import DrawerNav from '../components/Nav/DrawerNav/DrawerNav';
+import DrawerNav from '../components/Nav/DrawerNav/DrawerNav'; 
 import Checkout from '../components/Checkout/Checkout';
 import SearchProvider from '../Context/SearchProvider';
+
 
 function App() {
 
@@ -36,6 +38,7 @@ function App() {
                 <Route path="manage" element={<ManageAccount/>}/>
                 <Route path="login" element={<Login />}/>
                 <Route path="register" element={<Register />}/>
+                <Route path="changepw" element={<ChangePasswordScreen />}/>
                 <Route path="*" element={<Login />}/>
               </Route>
               <Route path="/shop" element={<Shop />}/>
